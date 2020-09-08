@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "deploy": "gh-pages -new"
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
@@ -11,7 +10,6 @@
   "dependencies": {
     "axios": "^0.20.0",
     "core-js": "^3.6.5",
-    "gh-pages": "^3.1.0",
     "uuid": "^8.3.0",
     "vue": "^2.6.11",
     "vue-router": "^3.4.3"
@@ -54,7 +52,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://Lukaszk01.github.io/todo-list",
   "bugs": {
     "url": "https://github.com/Lukaszk01/Todo-list-Vue.js/issues"
   },
